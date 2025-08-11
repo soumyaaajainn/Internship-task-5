@@ -1,4 +1,5 @@
-Project Structure
+Project Structure:
+
 train.csv: The dataset used for this analysis. (uplooaded)
 A PDF report summarizing the key findings and observations from the EDA.
 
